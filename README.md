@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VineetMittal007&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
-
+https://github-readme-stats.vercel.app/api?username=VineetMittal007
 <!--
 **VineetMittal007/VineetMittal007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
